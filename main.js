@@ -26,7 +26,7 @@ function startup() {
 	win = new electron.BrowserWindow({
 		width: 1024,
 		height: 768,
-		backgroundColor: "#000000",
+		backgroundColor: "#666666",
 		resizable: true,
 		show: false,
 		useContentSize: true,
