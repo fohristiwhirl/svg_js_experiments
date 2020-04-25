@@ -72,6 +72,9 @@ function menu_build() {
 				{
 					role: "toggledevtools"
 				},
+				{
+					role: "reload"
+				},
 			]
 		},
 	];
